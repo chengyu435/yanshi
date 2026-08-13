@@ -9,7 +9,7 @@ from djitellopy import Tello
 # 网络设置
 # =========================
 # 组网模式下，填写你扫描到的无人机 IP
-TELLO_IP = "10.60.51.199"
+TELLO_IP = "10.110.204.199"
 
 # 如果是直连 Tello 默认 Wi-Fi，可以改成：
 # TELLO_IP = "192.168.10.1"
